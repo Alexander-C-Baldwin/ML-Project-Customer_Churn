@@ -34,7 +34,7 @@ All the classifier models seemed to be pretty consistent throughout with this da
 
 Overall, the best model to predict customer churn is the neural network model number 1 (ANN – 1). It proved to be the most accurate model which is the main metric being targeted when comparing. Also, this model performed the best in mean absolute error showing the smallest error among the models. It had the third best recall as well.
 
-Some limitations of this dataset are that it looks at a customer’s current situation and does not look at behaviors for contribution to churn. Such calls with customer service, if they are aware of competitors, satisfaction with service, and other behavioral data may be useful in better predicting customer churn. 
+Some limitations of this dataset are that it looks at a customer’s current situation and does not look at behaviors for contribution to churn. Such as calls with customer service, if they are aware of competitors, satisfaction with service, and other behavioral data may be useful in better predicting customer churn. 
 
 ## Recommendations:
 
